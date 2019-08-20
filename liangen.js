@@ -94,7 +94,7 @@ function wvrtsmpc(ith,ymj,banCity,url){
 
 //屏蔽地区页面跳转   不分手机端与pc端
 //var banCity = ['北京市', '上海市', '广州市', '深圳', '南京市'];
-//giwvpc(banCity,"屏蔽地区地址","非屏蔽地区地址")
+//giwvrtsmpc(banCity,"屏蔽地区地址","非屏蔽地区地址")
 function giwvrtsmpc(fbaq,url1,url2){
 	
 
